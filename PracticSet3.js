@@ -60,7 +60,7 @@ while(true)
 }
 
 // *************************************************************************************************************************************
-// program to find mean usinf function , arrow function
+// program to find mean using function , arrow function
 
 function MeanCalci(num1, num2, num3, num4, num5) {
   return (num1 + num2 + num3 + num4 + num5) / 5;
