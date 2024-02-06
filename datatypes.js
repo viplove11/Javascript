@@ -24,4 +24,14 @@ console.log(typeof("viplove")) // this will also return the type of the variable
 // but here when we check the type of the null , js will give this as object type, as per the js standards
 console.log(typeof undefined) // its type = undefined only
 
+// object is created in thr form of dictionary (means in a key value pair)
+let object1 = {
+    "viplove":90,
+    "harsh":56
+}
+console.log(object1) // simply display the object1 data
+console.table(object1) // this will return keys as indexes and values as value defined , this will display the data in tabular form
+
+// we can also access the value of objects using thier keys 
+console.log(object1["viplove"])
 

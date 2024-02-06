@@ -38,6 +38,14 @@ console.log(typeof Name, Name); // change the type to boolean , and return value
 
 operations:
 
+
+operators in Js:
+1. Arithmetic operator (+,-,*,/,**,++,--,%)
+2. Assignement Operator. (+=,-+,*=,/=,**=)
+3. comparsion operator: (>,<,>=,<=,==,!=,===,?) , here ? is a ternary type and (== ) check for the value only but (===) checks for the value as well as the type of the variable
+4. logical operator : (&&, ||, !)
+5. // ternary operator syntax: condition? if true : not true
+
 */
 
 console.log(2+2) // return addition 
